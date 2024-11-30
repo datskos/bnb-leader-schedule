@@ -1,0 +1,178 @@
+[
+    {
+        "name": "glorin",
+        "address": "0xfd85346c8c991bac16b9c9157e6bdfdace1cd7d7"
+    },
+    {
+        "name": "nozti",
+        "address": "0x18c44f4fbede9826c7f257d500a65a3d5a8edebc"
+    },
+    {
+        "name": "Star",
+        "address": "0xa015d9e9206859c13201bb3d6b324d6634276534"
+    },
+    {
+        "name": "NovaX",
+        "address": "0x978f05ced39a4eafa6e8fd045fe2dd6da836c7df"
+    },
+    {
+        "name": "tiollo",
+        "address": "0xa100fcd08ce722dc68ddc3b54237070cb186f118"
+    },
+    {
+        "name": "sigm8",
+        "address": "0x286c1b674d48cff67b4096b6c1dc22e769581e91"
+    },
+    {
+        "name": "coinlix",
+        "address": "0x73a26778ef9509a6e94b55310ee7233795a9eb25"
+    },
+    {
+        "name": "axion",
+        "address": "0xc2d534f079444e6e7ff9dabb3fd8a26c607932c8"
+    },
+    {
+        "name": "Nexa",
+        "address": "0xd849d1df66bff1c2739b4399425755c2e0fabbab"
+    },
+    {
+        "name": "raptas",
+        "address": "0x0f28847cfdbf7508b13ebb9ceb94b2f1b32e9503"
+    },
+    {
+        "name": "Seoraksan",
+        "address": "0xb997bf1e3b96919fba592c1f61ce507e165ec030"
+    },
+    {
+        "name": "Veri",
+        "address": "0x5adde0151bfab27f329e5112c1aedeed7f0d3692"
+    },
+    {
+        "name": "LegendIV",
+        "address": "0xe9436f6f30b4b01b57f2780b2898f3820ebd7b98"
+    },
+    {
+        "name": "LegendVII",
+        "address": "0x4d15d9bcd0c2f33e7510c0de8b42697ca558234a"
+    },
+    {
+        "name": "LegendIX",
+        "address": "0x9f7110ba7edfda83fc71bea6ba3c0591117b440d"
+    },
+    {
+        "name": "LegendVI",
+        "address": "0xd1f72d433f362922f6565fc77c25e095b29141c8"
+    },
+    {
+        "name": "LegendV",
+        "address": "0x1579ca96ebd49a0b173f86c372436ab1ad393380"
+    },
+    {
+        "name": "ciscox",
+        "address": "0x025a4e09ea947b8d695f53ddfdd48ddb8f9b06b7"
+    },
+    {
+        "name": "zen",
+        "address": "0x5cf810ab8c718ac065b45f892a5badab2b2946b9"
+    },
+    {
+        "name": "pexmons",
+        "address": "0xa2d969e82524001cb6a2357dbf5922b04ad2fcd8"
+    },
+    {
+        "name": "Ankr",
+        "address": "0xe7776de78740f28a96412ee5cbbb8f90896b11a5"
+    },
+    {
+        "name": "Legend8",
+        "address": "0xf9814d93b4d904aaa855cbd4266d6eb0ec1aa478"
+    },
+    {
+        "name": "coda",
+        "address": "0xa0884bb00e5f23fe2427f0e5ec9e51f812848563"
+    },
+    {
+        "name": "Aoraki",
+        "address": "0xfc1004c0f296ec3df4f6762e9eabfcf20eb304a2"
+    },
+    {
+        "name": "Shannon",
+        "address": "0x38944092685a336cb6b9ea58836436709a2adc89"
+    },
+    {
+        "name": "Feynman",
+        "address": "0x9bb56c2b4dbe5a06d79911c9899b6f817696acfc"
+    },
+    {
+        "name": "The48Club",
+        "address": "0x8a239732871adc8829ea2f47e94087c5fbad47b6"
+    },
+    {
+        "name": "Avengers",
+        "address": "0xf8b99643fafc79d9404de68e48c4d49a3936f787"
+    },
+    {
+        "name": "Turing",
+        "address": "0xccb42a9b8d6c46468900527bc741938e78ab4577"
+    },
+    {
+        "name": "fuji",
+        "address": "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7"
+    },
+    {
+        "name": "CertiK",
+        "address": "0xb4647b856cb9c3856d559c885bed8b43e0846a47"
+    },
+    {
+        "name": "TWStaking",
+        "address": "0x9f1b7fae54be07f4fee34eb1aacb39a1f7b6fc92"
+    },
+    {
+        "name": "MathWallet",
+        "address": "0x7b501c7944185130dd4ad73293e8aa84effdcee7"
+    },
+    {
+        "name": "Figment",
+        "address": "0x75b851a27d7101438f45fce31816501193239a83"
+    },
+    {
+        "name": "namelix",
+        "address": "0xf8de5e61322302b2c6e0a525cc842f10332811bf"
+    },
+    {
+        "name": "defibit",
+        "address": "0x460a252b4feefa821d3351731220627d7b7d1f3d"
+    },
+    {
+        "name": "BNBEve",
+        "address": "0xd3b0d838ccceae7ebf1781d11d1bb741db7fe1a7"
+    },
+    {
+        "name": "BscScan",
+        "address": "0x502aecfe253e6aa0e8d2a06e12438ffed0fe16a0"
+    },
+    {
+        "name": "NodeReal",
+        "address": "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5"
+    },
+    {
+        "name": "Legend",
+        "address": "0x58567f7a51a58708c8b40ec592a38ba64c0697de"
+    },
+    {
+        "name": "InfStones",
+        "address": "0xca503a7ed99eca485da2e875aedf7758472c378c"
+    },
+    {
+        "name": "Tranchess",
+        "address": "0x1cfdbd2dff70c6e2e30df5012726f87731f38164"
+    },
+    {
+        "name": "LegendII",
+        "address": "0x37e9627a91dd13e453246856d58797ad6583d762"
+    },
+    {
+        "name": "LegendIII",
+        "address": "0x7e1fdf03eb3ac35bf0256694d7fbe6b6d7b3e0c8"
+    }
+]
