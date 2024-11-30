@@ -6,7 +6,7 @@ Every 200 blocks, 21 validators are selected and recorded in the block header. T
 Starting 44 blocks after the snapshot, these validators take turns proposing blocks. Each validator's turn lasts 4
 blocks.
 
-This is a simple utility to predict the validator for a block.
+This is a simple utility to query the validator for a future block.
 
 #### Leader schedule range:
 
