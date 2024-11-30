@@ -8,14 +8,11 @@ blocks.
 
 This is a simple utility to predict the validator for a block.
 
-#### Prediction Range:
+#### Leader schedule range:
 
-The tool can predict validators for:
+The tool can determine the validator leader schedule up to 44 - 243 blocks into the future.
 
-- Minimum: 44 blocks ahead
-- Maximum: 243 blocks ahead
-
-The exact prediction range depends on the current block's position relative to the epoch boundary.
+The exact range depends on the current block's position relative to the epoch boundary.
 
 ### Usage
 
